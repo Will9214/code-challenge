@@ -1,5 +1,3 @@
-
-
 const findSum = function(array) { //.reduce() will add values in array
   return array.reduce((accumulator, currentValue) => {
     return accumulator + currentValue;
